@@ -1,4 +1,4 @@
-# Android-Kotlin-Firebase-Email-Password-Login-SignUp
+# Firebase-Email-Password
 ## Made by [_**Aditya Bavadekar**_](https://github.com/AdityaBavadekar)
 ## Info
 - _🔒 min Android Version : 5.1 Lollipop_
